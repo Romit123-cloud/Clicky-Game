@@ -1,61 +1,61 @@
 [{
     "id": 1,
-    "image": "./assets/images/ichigo.jpg",
+    "image": "./assets/ichigo.jpg",
     "clicked": false
 },
 {
     "id": 2,
-    "image": "./assets/images/yusuke.jpg",
+    "image": "./assets/yusuke.jpg",
     "clicked": false
 },
 {
     "id": 3,
-    "image": "./assets/images/goku.jpg",
+    "image": "./assets/goku.jpg",
     "clicked": false
 },
 {
     "id": 4,
-    "image": "./assets/images/naruto.jpg",
+    "image": "./assets/naruto.jpg",
     "clicked": false
 },
 {
     "id": 5,
-    "image": "./assets/images/kenshiro.jpg",
+    "image": "./assets/kenshiro.jpg",
     "clicked": false
 },
 {
     "id": 6,
-    "image": "./assets/images/seiya.jpg",
+    "image": "./assets/seiya.jpg",
     "clicked": false
 },
 {
     "id": 7,
-    "image": "./assets/images/gon.jpg",
+    "image": "./assets/gon.jpg",
     "clicked": false
 },
 {
     "id": 8,
-    "image": "./assets/images/deku.jpg",
+    "image": "./assets/deku.jpg",
     "clicked": false
 },
 {
     "id": 9,
-    "image": "./assets/images/dai.jpg",
+    "image": "./assets/dai.jpg",
     "clicked": false
 },
 {
     "id": 10,
-    "image": "./assets/images/yugi.jpg",
+    "image": "./assets/yugi.jpg",
     "clicked": false
 },
 {
     "id": 11,
-    "image": "./assets/images/luffy.jpg",
+    "image": "./assets/luffy.jpg",
     "clicked": false
 },
 {
     "id": 12,
-    "image": "./assets/images/jotaro.jpg",
+    "image": "./assets/jotaro.jpg",
     "clicked": false
 }
 ]
