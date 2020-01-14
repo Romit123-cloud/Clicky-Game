@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import MatchCard from "./components/MatchCard";
+import GameCard from "./components/GameCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import matches from "./matchcards.json";
+import matches from "./gamecards.json";
 import "./App.css";
 
 let correctGuesses = 0;
@@ -95,7 +95,7 @@ class App extends Component {
                 <div className="container">
                 <div className="row">
                 {this.state.matches.map(match => (
-                    <MatchCard
+                    <GameCard
                         setClicked={this.setClicked}
                         id={match.id}
                         key={match.id}
