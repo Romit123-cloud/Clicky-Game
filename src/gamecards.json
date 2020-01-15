@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/ichigo.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/yusuke.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/goku.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/naruto.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/kenshiro.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/seiya.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/gon.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/deku.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/dai.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/yugi.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/luffy.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/jotaro.jpg",
+    "clicked": false
+}
+]
